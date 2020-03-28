@@ -1,0 +1,10 @@
+D:\testspace\c#pro\MySerializeDemo\MySerialize\bin\Debug\MySerialize.exe.config
+D:\testspace\c#pro\MySerializeDemo\MySerialize\bin\Debug\MySerialize.exe
+D:\testspace\c#pro\MySerializeDemo\MySerialize\bin\Debug\MySerialize.pdb
+D:\testspace\c#pro\MySerializeDemo\MySerialize\obj\Debug\MySerialize.csprojAssemblyReference.cache
+D:\testspace\c#pro\MySerializeDemo\MySerialize\obj\Debug\MySerialize.Form1.resources
+D:\testspace\c#pro\MySerializeDemo\MySerialize\obj\Debug\MySerialize.Properties.Resources.resources
+D:\testspace\c#pro\MySerializeDemo\MySerialize\obj\Debug\MySerialize.csproj.GenerateResource.cache
+D:\testspace\c#pro\MySerializeDemo\MySerialize\obj\Debug\MySerialize.csproj.CoreCompileInputs.cache
+D:\testspace\c#pro\MySerializeDemo\MySerialize\obj\Debug\MySerialize.exe
+D:\testspace\c#pro\MySerializeDemo\MySerialize\obj\Debug\MySerialize.pdb
